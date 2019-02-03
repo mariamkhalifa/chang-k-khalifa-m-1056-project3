@@ -1,1 +1,3 @@
-# chang-k-khalifa-m-1056-project3
+# Project3 - TRAA Scaffold
+
+A basic scaffold for 2 pages of the TRAA website.
